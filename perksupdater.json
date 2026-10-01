@@ -2,9 +2,217 @@
   {
     "title": "GitHub Student Developer Pack",
     "provider": "GitHub",
-    "description": "स्टूडेंट्स के लिए फ्री प्रीमियम टूल्स और क्लाउड सर्विसेज।",
-    "category": "Cloud & Tools",
+    "description": "फ्री प्रीमियम टूल्स और क्लाउड सर्विसेज स्टूडेंट्स के लिए।",
+    "category": "Tech & Software",
     "perkLink": "https://education.github.com/pack",
-    "expiryDate": "2027-12-31T00:00:00.000Z"
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "logo": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "title": "Spotify Student Premium",
+    "provider": "Spotify",
+    "description": "छात्रों के लिए विशेष डिस्काउंटेड म्यूजिक स्ट्रीमिंग।",
+    "category": "Entertainment & Lifestyle",
+    "perkLink": "https://www.spotify.com/student/",
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "logo": "https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_Green.png"
+  },
+  {
+    "title": "Amazon Prime Student Youth Offer",
+    "provider": "Amazon",
+    "description": "छात्रों के लिए विशेष डिस्काउंट और फास्ट डिलीवरी बेनिफिट्स।",
+    "category": "Entertainment & Lifestyle",
+    "perkLink": "https://www.amazon.in/prime/student",
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"
+  },
+  {
+    "title": "Microsoft Azure for Students",
+    "provider": "Microsoft",
+    "description": "फ्री क्लाउड क्रेडिट्स और डेवलपिंग टूल्स स्टूडेंट्स के लिए।",
+    "category": "Tech & Software",
+    "perkLink": "https://azure.microsoft.com/en-in/free/students/",
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"
+  },
+  {
+    "title": "Notion for Education",
+    "provider": "Notion",
+    "description": "स्टूडेंट्स और शिक्षकों के लिए पर्सनल प्लस प्लान बिल्कुल फ्री।",
+    "category": "Tech & Software",
+    "perkLink": "https://www.notion.so/product/notion-for-education",
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"
+  },
+  {
+    "title": "Canva Education",
+    "provider": "Canva",
+    "description": "स्टूडेंट्स और टीचर्स के लिए Canva Pro फीचर्स बिल्कुल फ्री।",
+    "category": "Tech & Software",
+    "perkLink": "https://www.canva.com/education/",
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg"
+  },
+  {
+    "title": "Adobe Creative Cloud Student",
+    "provider": "Adobe",
+    "description": "क्रिएटिव ऐप्स पर 60% से ज्यादा डिस्काउंट स्टूडेंट्स के लिए।",
+    "category": "Tech & Software",
+    "perkLink": "https://www.adobe.com/in/creativecloud/buy/students.html",
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Adobe_Systems_logo_and_wordmark_%282020%E2%80%93present%29.svg"
+  },
+  {
+    "title": "JetBrains All Products Pack",
+    "provider": "JetBrains",
+    "description": "डेवलपर्स के लिए सभी प्रोफेशनल IDEs छात्रों को मुफ्त मिलते हैं।",
+    "category": "Tech & Software",
+    "perkLink": "https://www.jetbrains.com/student/",
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "logo": "https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.png"
+  },
+  {
+    "title": "Apple Music Student",
+    "provider": "Apple",
+    "description": "छात्रों के लिए स्पेशल रियायती दरों पर म्यूजिक सब्सक्रिप्शन।",
+    "category": "Entertainment & Lifestyle",
+    "perkLink": "https://www.apple.com/in/apple-music/",
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"
+  },
+  {
+    "title": "YouTube Premium Student",
+    "provider": "Google",
+    "description": "विज्ञापन-मुक्त वीडियो और म्यूजिक स्ट्रीमिंग विशेष छात्र दर पर।",
+    "category": "Entertainment & Lifestyle",
+    "perkLink": "https://www.youtube.com/premium/student",
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg"
+  },
+  {
+    "title": "Zomato Student",
+    "provider": "Zomato",
+    "description": "फूड डिलीवरी पर विशेष छात्र डिस्काउंट और ऑफर्स।",
+    "category": "Food & Delivery",
+    "perkLink": "https://www.zomato.com",
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "logo": "https://b.zmtcdn.com/web_assets/b40b97e677bac7b26756041930f788b11580911581.png"
+  },
+  {
+    "title": "Swiggy Student",
+    "provider": "Swiggy",
+    "description": "छात्रों के लिए खान-पान और डाइन-इन पर विशेष छूट।",
+    "category": "Food & Delivery",
+    "perkLink": "https://www.swiggy.com",
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "logo": "https://res.cloudinary.com/swiggy/image/upload/portal/m/logo_2020.png"
+  },
+  {
+    "title": "Domino's Student",
+    "provider": "Domino's",
+    "description": "पिज्जा ऑर्डर्स पर विशेष स्टूडेंट ऑफर्स।",
+    "category": "Food & Delivery",
+    "perkLink": "https://www.dominos.co.in",
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Domino%27s_pizza_logo.svg"
+  },
+  {
+    "title": "Myntra Student",
+    "provider": "Myntra",
+    "description": "फैशन और कपड़ों पर छात्रों के लिए आकर्षक डिस्काउंट।",
+    "category": "Fashion & Sneakers",
+    "perkLink": "https://www.myntra.com",
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "logo": "https://assets.myntassets.com/assets/images/retaillogo/2023/6/5/efb3b5b1-1250-482f-8a0e-54a889b4b0e81685948951214-Myntra-Logo.png"
+  },
+  {
+    "title": "H&M Student",
+    "provider": "H&M",
+    "description": "छात्रों के लिए फैशन खरीदारी पर 10% की छूट।",
+    "category": "Fashion & Sneakers",
+    "perkLink": "https://www2.hm.com/en_in/index.html",
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/53/H%26M-Logo.svg"
+  },
+  {
+    "title": "Nykaa Student",
+    "provider": "Nykaa",
+    "description": "ब्यूटी और ग्रूमिंग प्रोडक्ट्स पर छात्र ऑफर्स।",
+    "category": "Beauty & Personal Care",
+    "perkLink": "https://www.nykaa.com",
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "logo": "https://images.nykaa.com/media/wysiwyg/2021/nykaa-logo.png"
+  },
+  {
+    "title": "Cult.fit Student",
+    "provider": "Cult.fit",
+    "description": "फिटनेस सेंटर और जिम मेंबरशिप पर स्पेशल स्टूडेंट प्लान।",
+    "category": "Fitness & Wellness",
+    "perkLink": "https://www.cult.fit",
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "logo": "https://images.cult.fit/uploads/cult_fit_logo.png"
+  },
+  {
+    "title": "Headspace Student",
+    "provider": "Headspace",
+    "description": "मेडिटेशन और मानसिक स्वास्थ्य ऐप पर 85% की भारी छूट।",
+    "category": "Fitness & Wellness",
+    "perkLink": "https://www.headspace.com/student",
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Headspace_logo.svg"
+  },
+  {
+    "title": "Coursera Student",
+    "provider": "Coursera",
+    "description": "विश्व प्रसिद्ध विश्वविद्यालयों के कोर्सेज पर विशेष वित्तीय सहायता और एक्सेस।",
+    "category": "Education & Learning",
+    "perkLink": "https://www.coursera.org",
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg"
+  },
+  {
+    "title": "Udemy Student",
+    "provider": "Udemy",
+    "description": "ऑनलाइन स्किल लर्निंग कोर्सेज पर छात्रों के लिए विशेष डिस्काउंट।",
+    "category": "Education & Learning",
+    "perkLink": "https://www.udemy.com",
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg"
+  },
+  {
+    "title": "Dell Student",
+    "provider": "Dell",
+    "description": "लैपटॉप और कंप्यूटर हार्डवेयर पर विशेष छात्र मूल्य और लाभ।",
+    "category": "Electronics & Hardware",
+    "perkLink": "https://www.dell.com/en-in",
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Dell_logo_2016.svg"
+  },
+  {
+    "title": "HP Student Store",
+    "provider": "HP",
+    "description": "छात्रों के लिए लैपटॉप और एसेसरीज पर विशेष छूट।",
+    "category": "Electronics & Hardware",
+    "perkLink": "https://www.hp.com/in-en/shop/",
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ad/HP_logo_2012.svg"
+  },
+  {
+    "title": "Indian Railways Student Concession",
+    "provider": "Indian Railways",
+    "description": "छात्रों के लिए ट्रेन यात्रा किराए पर रियायत (Concession)।",
+    "category": "Travel & Hardware",
+    "perkLink": "https://www.indianrail.gov.in",
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/45/Indian_Railways_Logo.svg"
+  },
+  {
+    "title": "UPSRTC Student Bus Pass",
+    "provider": "UPSRTC",
+    "description": "उत्तर प्रदेश रोडवेज बसों में छात्रों के लिए विशेष बस पास और छूट।",
+    "category": "Travel & Hardware",
+    "perkLink": "https://upsrtc.up.gov.in",
+    "expiryDate": "2027-12-31T00:00:00.000Z",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/45/Indian_Railways_Logo.svg"
   }
 ]
