@@ -1,218 +1,519 @@
 [
   {
-    "title": "GitHub Student Developer Pack",
-    "provider": "GitHub",
-    "description": "फ्री प्रीमियम टूल्स और क्लाउड सर्विसेज स्टूडेंट्स के लिए।",
-    "category": "Tech & Software",
-    "perkLink": "https://education.github.com/pack",
-    "expiryDate": "2027-12-31T00:00:00.000Z",
-    "logo": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+    "title": "Apollo Pharmacy Student",
+    "provider": "Apollo Pharmacy",
+    "category": "Beauty & Personal Care",
+    "description": "Exclusive student discounts on medicines and wellness products.",
+    "discount": "Varies",
+    "link": "https://www.apollo247.com/",
+    "logo": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
   },
   {
-    "title": "Spotify Student Premium",
-    "provider": "Spotify",
-    "description": "छात्रों के लिए विशेष डिस्काउंटेड म्यूजिक स्ट्रीमिंग।",
-    "category": "Entertainment & Lifestyle",
-    "perkLink": "https://www.spotify.com/student/",
-    "expiryDate": "2027-12-31T00:00:00.000Z",
-    "logo": "https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_Green.png"
+    "title": "iHerb Student",
+    "provider": "iHerb",
+    "category": "Beauty & Personal Care",
+    "description": "Student discount on health and personal care products.",
+    "discount": "Varies",
+    "link": "https://www.iherb.com/",
+    "logo": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
   },
   {
-    "title": "Amazon Prime Student Youth Offer",
-    "provider": "Amazon",
-    "description": "छात्रों के लिए विशेष डिस्काउंट और फास्ट डिलीवरी बेनिफिट्स।",
-    "category": "Entertainment & Lifestyle",
-    "perkLink": "https://www.amazon.in/prime/student",
-    "expiryDate": "2027-12-31T00:00:00.000Z",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"
-  },
-  {
-    "title": "Microsoft Azure for Students",
-    "provider": "Microsoft",
-    "description": "फ्री क्लाउड क्रेडिट्स और डेवलपिंग टूल्स स्टूडेंट्स के लिए।",
-    "category": "Tech & Software",
-    "perkLink": "https://azure.microsoft.com/en-in/free/students/",
-    "expiryDate": "2027-12-31T00:00:00.000Z",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"
-  },
-  {
-    "title": "Notion for Education",
-    "provider": "Notion",
-    "description": "स्टूडेंट्स और शिक्षकों के लिए पर्सनल प्लस प्लान बिल्कुल फ्री।",
-    "category": "Tech & Software",
-    "perkLink": "https://www.notion.so/product/notion-for-education",
-    "expiryDate": "2027-12-31T00:00:00.000Z",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"
-  },
-  {
-    "title": "Canva Education",
-    "provider": "Canva",
-    "description": "स्टूडेंट्स और टीचर्स के लिए Canva Pro फीचर्स बिल्कुल फ्री।",
-    "category": "Tech & Software",
-    "perkLink": "https://www.canva.com/education/",
-    "expiryDate": "2027-12-31T00:00:00.000Z",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg"
-  },
-  {
-    "title": "Adobe Creative Cloud Student",
-    "provider": "Adobe",
-    "description": "क्रिएटिव ऐप्स पर 60% से ज्यादा डिस्काउंट स्टूडेंट्स के लिए।",
-    "category": "Tech & Software",
-    "perkLink": "https://www.adobe.com/in/creativecloud/buy/students.html",
-    "expiryDate": "2027-12-31T00:00:00.000Z",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Adobe_Systems_logo_and_wordmark_%282020%E2%80%93present%29.svg"
-  },
-  {
-    "title": "JetBrains All Products Pack",
-    "provider": "JetBrains",
-    "description": "डेवलपर्स के लिए सभी प्रोफेशनल IDEs छात्रों को मुफ्त मिलते हैं।",
-    "category": "Tech & Software",
-    "perkLink": "https://www.jetbrains.com/student/",
-    "expiryDate": "2027-12-31T00:00:00.000Z",
-    "logo": "https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.png"
-  },
-  {
-    "title": "Apple Music Student",
-    "provider": "Apple",
-    "description": "छात्रों के लिए स्पेशल रियायती दरों पर म्यूजिक सब्सक्रिप्शन।",
-    "category": "Entertainment & Lifestyle",
-    "perkLink": "https://www.apple.com/in/apple-music/",
-    "expiryDate": "2027-12-31T00:00:00.000Z",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"
-  },
-  {
-    "title": "YouTube Premium Student",
-    "provider": "Google",
-    "description": "विज्ञापन-मुक्त वीडियो और म्यूजिक स्ट्रीमिंग विशेष छात्र दर पर।",
-    "category": "Entertainment & Lifestyle",
-    "perkLink": "https://www.youtube.com/premium/student",
-    "expiryDate": "2027-12-31T00:00:00.000Z",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg"
-  },
-  {
-    "title": "Zomato Student",
-    "provider": "Zomato",
-    "description": "फूड डिलीवरी पर विशेष छात्र डिस्काउंट और ऑफर्स।",
-    "category": "Food & Delivery",
-    "perkLink": "https://www.zomato.com",
-    "expiryDate": "2027-12-31T00:00:00.000Z",
-    "logo": "https://b.zmtcdn.com/web_assets/b40b97e677bac7b26756041930f788b11580911581.png"
-  },
-  {
-    "title": "Swiggy Student",
-    "provider": "Swiggy",
-    "description": "छात्रों के लिए खान-पान और डाइन-इन पर विशेष छूट।",
-    "category": "Food & Delivery",
-    "perkLink": "https://www.swiggy.com",
-    "expiryDate": "2027-12-31T00:00:00.000Z",
-    "logo": "https://res.cloudinary.com/swiggy/image/upload/portal/m/logo_2020.png"
-  },
-  {
-    "title": "Domino's Student",
-    "provider": "Domino's",
-    "description": "पिज्जा ऑर्डर्स पर विशेष स्टूडेंट ऑफर्स।",
-    "category": "Food & Delivery",
-    "perkLink": "https://www.dominos.co.in",
-    "expiryDate": "2027-12-31T00:00:00.000Z",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Domino%27s_pizza_logo.svg"
-  },
-  {
-    "title": "Myntra Student",
-    "provider": "Myntra",
-    "description": "फैशन और कपड़ों पर छात्रों के लिए आकर्षक डिस्काउंट।",
-    "category": "Fashion & Sneakers",
-    "perkLink": "https://www.myntra.com",
-    "expiryDate": "2027-12-31T00:00:00.000Z",
-    "logo": "https://assets.myntassets.com/assets/images/retaillogo/2023/6/5/efb3b5b1-1250-482f-8a0e-54a889b4b0e81685948951214-Myntra-Logo.png"
-  },
-  {
-    "title": "H&M Student",
-    "provider": "H&M",
-    "description": "छात्रों के लिए फैशन खरीदारी पर 10% की छूट।",
-    "category": "Fashion & Sneakers",
-    "perkLink": "https://www2.hm.com/en_in/index.html",
-    "expiryDate": "2027-12-31T00:00:00.000Z",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/53/H%26M-Logo.svg"
+    "title": "Sephora India Student",
+    "provider": "Sephora",
+    "category": "Beauty & Personal Care",
+    "description": "Special beauty and makeup student offers.",
+    "discount": "Varies",
+    "link": "https://sephora.nnnow.com/",
+    "logo": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
   },
   {
     "title": "Nykaa Student",
     "provider": "Nykaa",
-    "description": "ब्यूटी और ग्रूमिंग प्रोडक्ट्स पर छात्र ऑफर्स।",
     "category": "Beauty & Personal Care",
-    "perkLink": "https://www.nykaa.com",
-    "expiryDate": "2027-12-31T00:00:00.000Z",
-    "logo": "https://images.nykaa.com/media/wysiwyg/2021/nykaa-logo.png"
+    "description": "Discounted beauty essentials and cosmetics for students.",
+    "discount": "Varies",
+    "link": "https://www.nykaa.com/",
+    "logo": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
   },
   {
-    "title": "Cult.fit Student",
-    "provider": "Cult.fit",
-    "description": "फिटनेस सेंटर और जिम मेंबरशिप पर स्पेशल स्टूडेंट प्लान।",
+    "title": "MAC Cosmetics Student",
+    "provider": "MAC Cosmetics",
+    "category": "Beauty & Personal Care",
+    "description": "Up to 15% off on professional makeup products for students.",
+    "discount": "Up to 15% Off",
+    "link": "https://www.maccosmetics.in/",
+    "logo": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Calm Student",
+    "provider": "Calm",
     "category": "Fitness & Wellness",
-    "perkLink": "https://www.cult.fit",
-    "expiryDate": "2027-12-31T00:00:00.000Z",
-    "logo": "https://images.cult.fit/uploads/cult_fit_logo.png"
+    "description": "Special student pricing for meditation, sleep, and relaxation.",
+    "discount": "Varies",
+    "link": "https://www.calm.com/",
+    "logo": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
   },
   {
     "title": "Headspace Student",
     "provider": "Headspace",
-    "description": "मेडिटेशन और मानसिक स्वास्थ्य ऐप पर 85% की भारी छूट।",
     "category": "Fitness & Wellness",
-    "perkLink": "https://www.headspace.com/student",
-    "expiryDate": "2027-12-31T00:00:00.000Z",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Headspace_logo.svg"
+    "description": "Discounted mindfulness and meditation subscription for students.",
+    "discount": "85% Off",
+    "link": "https://www.headspace.com/",
+    "logo": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
   },
   {
-    "title": "Coursera Student",
-    "provider": "Coursera",
-    "description": "विश्व प्रसिद्ध विश्वविद्यालयों के कोर्सेज पर विशेष वित्तीय सहायता और एक्सेस।",
+    "title": "Adidas Training",
+    "provider": "Adidas",
+    "category": "Fitness & Wellness",
+    "description": "Free access to training and workout programs.",
+    "discount": "100% Free",
+    "link": "https://www.adidas.com/us/apps",
+    "logo": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Nike Training Club",
+    "provider": "Nike",
+    "category": "Fitness & Wellness",
+    "description": "Free workouts, expert guidance, and training plans.",
+    "discount": "100% Free",
+    "link": "https://www.nike.com/ntc-app",
+    "logo": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Cult.fit Student",
+    "provider": "Cult.fit",
+    "category": "Fitness & Wellness",
+    "description": "Exclusive fitness and gym pass discounts for students.",
+    "discount": "Varies",
+    "link": "https://www.cult.fit/",
+    "logo": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Strava Student",
+    "provider": "Strava",
+    "category": "Fitness & Wellness",
+    "description": "Discounted subscription for runners and cyclists.",
+    "discount": "50% Off",
+    "link": "https://www.strava.com/",
+    "logo": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Skillshare Student",
+    "provider": "Skillshare",
     "category": "Education & Learning",
-    "perkLink": "https://www.coursera.org",
-    "expiryDate": "2027-12-31T00:00:00.000Z",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg"
+    "description": "Discounted creative and technical online classes.",
+    "discount": "Varies",
+    "link": "https://www.skillshare.com/",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "DataCamp Student",
+    "provider": "DataCamp",
+    "category": "Education & Learning",
+    "description": "Free or discounted data science and programming learning paths.",
+    "discount": "Student Pricing",
+    "link": "https://www.datacamp.com/",
+    "logo": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Quizlet Student",
+    "provider": "Quizlet",
+    "category": "Education & Learning",
+    "description": "Advanced flashcards and study tools with student discounts.",
+    "discount": "Varies",
+    "link": "https://quizlet.com/",
+    "logo": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Wolfram Alpha Student",
+    "provider": "Wolfram",
+    "category": "Education & Learning",
+    "description": "Special computational knowledge engine rates for students.",
+    "discount": "Special Rate",
+    "link": "https://www.wolframalpha.com/",
+    "logo": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "MATLAB Student",
+    "provider": "MathWorks",
+    "category": "Education & Learning",
+    "description": "Industry-standard engineering software at student license rates.",
+    "discount": "Student License Rate",
+    "link": "https://www.mathworks.com/",
+    "logo": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Overleaf Student",
+    "provider": "Overleaf",
+    "category": "Education & Learning",
+    "description": "Collaborative LaTeX writing tool upgrades for students.",
+    "discount": "Varies",
+    "link": "https://www.overleaf.com/",
+    "logo": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Rosetta Stone Student",
+    "provider": "Rosetta Stone",
+    "category": "Education & Learning",
+    "description": "Special language learning discounts for students.",
+    "discount": "Varies",
+    "link": "https://www.rosettastone.com/",
+    "logo": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
   },
   {
     "title": "Udemy Student",
     "provider": "Udemy",
-    "description": "ऑनलाइन स्किल लर्निंग कोर्सेज पर छात्रों के लिए विशेष डिस्काउंट।",
     "category": "Education & Learning",
-    "perkLink": "https://www.udemy.com",
-    "expiryDate": "2027-12-31T00:00:00.000Z",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg"
+    "description": "Discounted online courses across tech, business, and arts.",
+    "discount": "Varies",
+    "link": "https://www.udemy.com/",
+    "logo": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
   },
   {
-    "title": "Dell Student",
-    "provider": "Dell",
-    "description": "लैपटॉप और कंप्यूटर हार्डवेयर पर विशेष छात्र मूल्य और लाभ।",
+    "title": "Coursera Student",
+    "provider": "Coursera",
+    "category": "Education & Learning",
+    "description": "Free course access and financial aid for university students.",
+    "discount": "Free Course Access",
+    "link": "https://www.coursera.org/",
+    "logo": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Domino's Student",
+    "provider": "Domino's",
+    "category": "Food & Delivery",
+    "description": "Special discounts on pizza orders for students.",
+    "discount": "Varies",
+    "link": "https://www.dominos.co.in/",
+    "logo": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Pizza Hut Student",
+    "provider": "Pizza Hut",
+    "category": "Food & Delivery",
+    "description": "Student meal deals and exclusive discounts.",
+    "discount": "Varies",
+    "link": "https://www.pizzahut.co.in/",
+    "logo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "McDonald's Student",
+    "provider": "McDonald's",
+    "category": "Food & Delivery",
+    "description": "Discounts on meals with valid student ID.",
+    "discount": "Varies",
+    "link": "https://mcdindia.com/",
+    "logo": "https://images.unsplash.com/photo-1619671580237-f58c707d722d?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Subway Student",
+    "provider": "Subway",
+    "category": "Food & Delivery",
+    "description": "Special student combos and price cuts.",
+    "discount": "Varies",
+    "link": "https://www.subway.com/",
+    "logo": "https://images.unsplash.com/photo-1509722747041-616f39b57569?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Starbucks Student",
+    "provider": "Starbucks",
+    "category": "Food & Delivery",
+    "description": "Exclusive beverage discounts for students at select outlets.",
+    "discount": "Varies",
+    "link": "https://www.starbucks.in/",
+    "logo": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Zomato Student",
+    "provider": "Zomato",
+    "category": "Food & Delivery",
+    "description": "Special food delivery discounts and offers for students.",
+    "discount": "Varies",
+    "link": "https://www.zomato.com/",
+    "logo": "https://images.unsplash.com/photo-1526367790999-0150786686a2?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Swiggy Student",
+    "provider": "Swiggy",
+    "category": "Food & Delivery",
+    "description": "Discounts on food delivery and instamart orders.",
+    "discount": "Varies",
+    "link": "https://www.swiggy.com/",
+    "logo": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "ASOS Student",
+    "provider": "ASOS",
+    "category": "Fashion & Sneakers",
+    "description": "10% off on fashion and clothing items for students.",
+    "discount": "10% Off",
+    "link": "https://www.asos.com/",
+    "logo": "https://images.unsplash.com/photo-1445205170230-053b83016050?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Levi's Student",
+    "provider": "Levi's",
+    "category": "Fashion & Sneakers",
+    "description": "Student discounts on denim wear and apparel.",
+    "discount": "Varies",
+    "link": "https://www.levi.in/",
+    "logo": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Converse Student",
+    "provider": "Converse",
+    "category": "Fashion & Sneakers",
+    "description": "Special student discount on classic footwear.",
+    "discount": "Varies",
+    "link": "https://www.converse.in/",
+    "logo": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Crocs Student",
+    "provider": "Crocs",
+    "category": "Fashion & Sneakers",
+    "description": "Student discount on comfortable footwear.",
+    "discount": "Varies",
+    "link": "https://www.crocs.in/",
+    "logo": "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Nike Student",
+    "provider": "Nike",
+    "category": "Fashion & Sneakers",
+    "description": "Exclusive student discounts on sportswear and shoes.",
+    "discount": "Varies",
+    "link": "https://www.nike.com/in/",
+    "logo": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Adidas Student",
+    "provider": "Adidas",
+    "category": "Fashion & Sneakers",
+    "description": "Special student savings on sneakers and athletic gear.",
+    "discount": "Varies",
+    "link": "https://www.adidas.co.in/",
+    "logo": "https://images.unsplash.com/photo-1518002153121-2e6f4325e165?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "PUMA Student",
+    "provider": "PUMA",
+    "category": "Fashion & Sneakers",
+    "description": "Extra discount for students on sports apparel and footwear.",
+    "discount": "Varies",
+    "link": "https://in.puma.com/",
+    "logo": "https://images.unsplash.com/photo-1608231387042-66d17b3070a1?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Myntra Student",
+    "provider": "Myntra",
+    "category": "Fashion & Sneakers",
+    "description": "Exclusive fashion offers and student perks on Myntra.",
+    "discount": "Varies",
+    "link": "https://www.myntra.com/",
+    "logo": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "AJIO Student",
+    "provider": "AJIO",
+    "category": "Fashion & Sneakers",
+    "description": "Special student discount codes for trendy fashion wear.",
+    "discount": "Varies",
+    "link": "https://www.ajio.com/",
+    "logo": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "H&M Student",
+    "provider": "H&M",
+    "category": "Fashion & Sneakers",
+    "description": "10% student discount on sustainable fashion and clothing.",
+    "discount": "10% Off",
+    "link": "https://www2.hm.com/",
+    "logo": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Chess.com Student",
+    "provider": "Chess.com",
+    "category": "Entertainment & Lifestyle",
+    "description": "Special perks and diamond membership benefits for students.",
+    "discount": "Varies",
+    "link": "https://www.chess.com/",
+    "logo": "https://images.unsplash.com/photo-1529699211952-734e80c4d42b?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Tidal Student",
+    "provider": "Tidal",
+    "category": "Entertainment & Lifestyle",
+    "description": "High-fidelity music streaming at half the price for students.",
+    "discount": "50% Off",
+    "link": "https://tidal.com/",
+    "logo": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "YouTube Premium Student",
+    "provider": "Google",
+    "category": "Entertainment & Lifestyle",
+    "description": "Ad-free videos, background play, and YouTube Music at student rates.",
+    "discount": "Special Rate",
+    "link": "https://www.youtube.com/premium/student",
+    "logo": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Apple Music Student",
+    "provider": "Apple",
+    "category": "Entertainment & Lifestyle",
+    "description": "Millions of songs with Apple TV+ included at a student price.",
+    "discount": "Special Rate",
+    "link": "https://www.apple.com/in/apple-music/",
+    "logo": "https://images.unsplash.com/photo-1558748259-2d4e1329a27f?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Amazon Prime Student Youth Offer",
+    "provider": "Amazon",
+    "category": "Entertainment & Lifestyle",
+    "description": "Fast free delivery, Prime Video, and music at 50% discount.",
+    "discount": "50% Off",
+    "link": "https://www.amazon.in/prime",
+    "logo": "https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Spotify Student Premium",
+    "provider": "Spotify",
+    "category": "Entertainment & Lifestyle",
+    "description": "Unlimited ad-free music streaming for eligible college students.",
+    "discount": "₹20/month",
+    "link": "https://www.spotify.com/student/",
+    "logo": "https://images.unsplash.com/photo-1614680376593-902f749f7ffc?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Razer Student",
+    "provider": "Razer",
     "category": "Electronics & Hardware",
-    "perkLink": "https://www.dell.com/en-in",
-    "expiryDate": "2027-12-31T00:00:00.000Z",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Dell_logo_2016.svg"
+    "description": "Up to 15% off on gaming gear, laptops, and accessories.",
+    "discount": "Up to 15% Off",
+    "link": "https://www.razer.com/",
+    "logo": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "OPPO Student",
+    "provider": "OPPO",
+    "category": "Electronics & Hardware",
+    "description": "Special student pricing on smartphones and accessories.",
+    "discount": "Varies",
+    "link": "https://www.oppo.com/in/",
+    "logo": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "OnePlus Student",
+    "provider": "OnePlus",
+    "category": "Electronics & Hardware",
+    "description": "Exclusive discounts for students on OnePlus devices and audio.",
+    "discount": "Varies",
+    "link": "https://www.oneplus.in/",
+    "logo": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Acer Student",
+    "provider": "Acer",
+    "category": "Electronics & Hardware",
+    "description": "Special student discounts on laptops and educational tech.",
+    "discount": "Varies",
+    "link": "https://store.acer.com/en-in/",
+    "logo": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "ASUS Student",
+    "provider": "ASUS",
+    "category": "Electronics & Hardware",
+    "description": "Student discount offers on ROG and ZenBook laptops.",
+    "discount": "Varies",
+    "link": "https://www.asus.com/in/",
+    "logo": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
   },
   {
     "title": "HP Student Store",
     "provider": "HP",
-    "description": "छात्रों के लिए लैपटॉप और एसेसरीज पर विशेष छूट।",
     "category": "Electronics & Hardware",
-    "perkLink": "https://www.hp.com/in-en/shop/",
-    "expiryDate": "2027-12-31T00:00:00.000Z",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ad/HP_logo_2012.svg"
+    "description": "Special education pricing, accessories, and laptops for students.",
+    "discount": "Varies",
+    "link": "https://www.hp.com/in-en/shop/",
+    "logo": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
   },
   {
-    "title": "Indian Railways Student Concession",
-    "provider": "Indian Railways",
-    "description": "छात्रों के लिए ट्रेन यात्रा किराए पर रियायत (Concession)।",
-    "category": "Travel & Hardware",
-    "perkLink": "https://www.indianrail.gov.in",
-    "expiryDate": "2027-12-31T00:00:00.000Z",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/4/45/Indian_Railways_Logo.svg"
+    "title": "Dell Student",
+    "provider": "Dell",
+    "category": "Electronics & Hardware",
+    "description": "Student discounts and rewards on Dell laptops and monitors.",
+    "discount": "Varies",
+    "link": "https://www.dell.com/en-in",
+    "logo": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
   },
   {
-    "title": "UPSRTC Student Bus Pass",
-    "provider": "UPSRTC",
-    "description": "उत्तर प्रदेश रोडवेज बसों में छात्रों के लिए विशेष बस पास और छूट।",
-    "category": "Travel & Hardware",
-    "perkLink": "https://upsrtc.up.gov.in",
-    "expiryDate": "2027-12-31T00:00:00.000Z",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/4/45/Indian_Railways_Logo.svg"
-  }
-]
+    "title": "Lenovo Student",
+    "provider": "Lenovo",
+    "category": "Electronics & Hardware",
+    "description": "Exclusive student savings on IdeaPad, ThinkPad, and Legion.",
+    "discount": "Varies",
+    "link": "https://www.lenovo.com/in/en/",
+    "logo": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=150&auto=format&fit=crop&q=80",
+    "status": "active"
+  },
+  {
+    "title": "Microsoft Azure for Students",
+    "provider": "Microsoft",
+    "category": "Tech & Software",
+    "description": "$100 in Azure credits and free cloud developer tools.",
+    "discount": "$100 Credits",
+    "link": "https://azure.microsoft.com/en-in/free/students/",
+    "logo": "https://images.unsplash.com/photo-1633419461186-7d40a38105ec?w=150&auto=
